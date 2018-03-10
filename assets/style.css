@@ -21,11 +21,8 @@ body {
     margin-bottom: 10px; 
 }
 
-#gif-form {
-    background-color: #EFF1F4; 
-}
-
 #newgif {
+    border-radius: 10px;
     background-color: #EFF1F4;
     padding: 10px;  
 }
